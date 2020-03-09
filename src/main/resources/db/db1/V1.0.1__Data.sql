@@ -1,0 +1,1 @@
+INSERT INTO test1 values ('John Doe');

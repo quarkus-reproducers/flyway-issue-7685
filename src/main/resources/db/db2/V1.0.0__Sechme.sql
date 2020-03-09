@@ -1,0 +1,3 @@
+CREATE TABLE test2 (
+	NAME VARCHAR(100)
+);
